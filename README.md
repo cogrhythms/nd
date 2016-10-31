@@ -4,4 +4,6 @@
   * make _data folder containing yml with lab members
     * automatically populate lab list from _data folder
     * have links to peoples websites
+  * or use CSV for data
+    * https://bl.ocks.org/ndarville/7075823
   * add nak google calendar
