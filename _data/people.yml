@@ -1,0 +1,49 @@
+---
+pi:
+  name: Nancy Kopell
+  email: nk@bu.edu
+  website: http://math.bu.edu/people/nk/
+
+indep_visitors:
+  - name: Salva Ardid
+    email: sardid@bu.edu
+    
+  - name: Michelle McCarthy
+    email: mmccart@bu.edu
+      
+postdocs:
+  - name: Alexandros Gelastopoulos
+    email: alexgelas@hotmail.com
+      
+  - name: Ben Polletta
+    email: benpolletta@gmail.com
+    
+  - name: Dave Stanley
+    email: stanleyd@bu.edu
+    
+  - name: Sujith Vijayan
+    email: svijayan9@gmail.com
+    
+  - name: Theo Vo
+    email: theo.m.t.vo@gmail.com
+    
+gradStudents:
+  - name: Julia Chartove
+    email: chartove@bu.edu
+  
+  - name: Marek Kowalski
+    email: komarek@bu.edu
+      
+  - name: Erik Roberts
+    email: erob@bu.edu
+    website: http://earoberts.com
+    
+  - name: Jason Sherfey
+    email: jssherfey@gmail.com
+    
+  - name: Austin Soplata
+    email: austin.soplata@gmail.com
+
+  - name: Yujia Zhou
+    email: zhouy@bu.edu
+...
