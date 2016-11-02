@@ -13,7 +13,7 @@ indep_visitors:
       
 postdocs:
   - name: Alexandros Gelastopoulos
-    email: alexgelas@hotmail.com
+    email: gelas@bu.edu
       
   - name: Ben Polletta
     email: benpolletta@gmail.com
@@ -25,7 +25,7 @@ postdocs:
     email: svijayan9@gmail.com
     
   - name: Theo Vo
-    email: theo.m.t.vo@gmail.com
+    email: theovo@bu.edu
     
 gradStudents:
   - name: Julia Chartove
@@ -39,10 +39,10 @@ gradStudents:
     website: http://earoberts.com
     
   - name: Jason Sherfey
-    email: jssherfey@gmail.com
+    email: sherfey@bu.edu
     
   - name: Austin Soplata
-    email: austin.soplata@gmail.com
+    email: asoplata@bu.edu
 
   - name: Yujia Zhou
     email: zhouy@bu.edu
