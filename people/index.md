@@ -21,8 +21,8 @@ title: "People"
 <!--         <td class="email">{{site.data.people.pi.email | replace: '@', ' åt '}}</td> -->
         <td class="email">
           <SCRIPT type='text/javascript'>
-            a={{site.data.people.pi.email | split: '@' | first}};
-            b={{site.data.people.pi.email | split: '@' | last}};
+            a='{{site.data.people.pi.email | split: '@' | first}}';
+            b='{{site.data.people.pi.email | split: '@' | last}}';
             document.write('<A hre'+'f="mai'+'lto:'+a+'@'+b+'">');
             document.write(a+'@'+b+'</a>');
           </SCRIPT>
