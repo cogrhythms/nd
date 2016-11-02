@@ -2,7 +2,7 @@
 pi:
   name: Nancy Kopell
   email: nk@bu.edu
-  website: http://math.bu.edu/people/nk/
+  website: http://math.bu.edu/people/nk
 
 indep_visitors:    
   - name: Michelle McCarthy
@@ -11,13 +11,14 @@ indep_visitors:
 postdocs:
   - name: Salva Ardid
     email: sardid@bu.edu
-    website: http://sardid.cognitive-neurobiol.org/
+    website: http://sardid.cognitive-neurobiol.org
     
   - name: Ben Polletta
     email: benpolletta@gmail.com
     
   - name: Dave Stanley
     email: stanleyd@bu.edu
+    website: http://davearthurstanley.com
     
   - name: Sujith Vijayan
     email: svijayan9@gmail.com
@@ -47,5 +48,5 @@ gradStudents:
 
   - name: Yujia Zhou
     email: zhouy@bu.edu
-    website: https://www.linkedin.com/in/yujiaz/
+    website: https://www.linkedin.com/in/yujiaz
 ...
