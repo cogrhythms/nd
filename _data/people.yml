@@ -4,17 +4,15 @@ pi:
   email: nk@bu.edu
   website: http://math.bu.edu/people/nk/
 
-indep_visitors:
-  - name: Salva Ardid
-    email: sardid@bu.edu
-    
+indep_visitors:    
   - name: Michelle McCarthy
     email: mmccart@bu.edu
       
 postdocs:
-  - name: Alexandros Gelastopoulos
-    email: gelas@bu.edu
-      
+  - name: Salva Ardid
+    email: sardid@bu.edu
+    website: http://sardid.cognitive-neurobiol.org/
+    
   - name: Ben Polletta
     email: benpolletta@gmail.com
     
@@ -30,6 +28,9 @@ postdocs:
 gradStudents:
   - name: Julia Chartove
     email: chartove@bu.edu
+    
+  - name: Alexandros Gelastopoulos
+    email: gelas@bu.edu
   
   - name: Marek Kowalski
     email: komarek@bu.edu
@@ -46,4 +47,5 @@ gradStudents:
 
   - name: Yujia Zhou
     email: zhouy@bu.edu
+    website: https://www.linkedin.com/in/yujiaz/
 ...
