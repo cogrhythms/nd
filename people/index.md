@@ -18,7 +18,7 @@ title: "People"
     <tbody>
       <tr>
         <td class="name">{{site.data.people.pi.name}}</td>
-        <td class="email">{{site.data.people.pi.email}}</td>
+        <td class="email">{{site.data.people.pi.email | replace: '@', ' åt '}}</td>
         <td class="site"><a target="_blank" href="{{site.data.people.pi.website}}">{{site.data.people.pi.website}}</a></td>
       </tr>
     </tbody>
@@ -39,7 +39,7 @@ title: "People"
       {% for person in site.data.people.indep_visitors %}
         <tr>
           <td class="name">{{person.name}}</td>
-          <td class="email">{{person.email}}</td>
+          <td class="email">{{person.email | replace: '@', ' åt '}}</td>
           <td class="site"><a target="_blank" href="{{person.website}}">{{person.website}}</a></td>
         </tr>
       {% endfor %}
@@ -61,7 +61,7 @@ title: "People"
     {% for person in site.data.people.postdocs %}
       <tr>
         <td class="name">{{person.name}}</td>
-        <td class="email">{{person.email}}</td>
+        <td class="email">{{person.email | replace: '@', ' åt '}}</td>
         <td class="site"><a target="_blank" href="{{person.website}}">{{person.website}}</a></td>
       </tr>
     {% endfor %}
@@ -83,7 +83,7 @@ title: "People"
     {% for person in site.data.people.gradStudents %}
       <tr>
         <td class="name">{{person.name}}</td>
-        <td class="email">{{person.email}}</td>
+        <td class="email">{{person.email | replace: '@', ' åt '}}</td>
         <td class="site"><a target="_blank" href="{{person.website}}">{{person.website}}</a></td>
       </tr>
     {% endfor %}
