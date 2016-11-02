@@ -18,7 +18,6 @@ title: "People"
     <tbody>
       <tr>
         <td class="name">{{site.data.people.pi.name}}</td>
-<!--         <td class="email">{{site.data.people.pi.email | replace: '@', ' åt '}}</td> -->
         <td class="email">
           <SCRIPT type='text/javascript'>
             a='{{site.data.people.pi.email | split: '@' | first}}';
@@ -47,7 +46,14 @@ title: "People"
       {% for person in site.data.people.indep_visitors %}
         <tr>
           <td class="name">{{person.name}}</td>
-          <td class="email">{{person.email | replace: '@', ' åt '}}</td>
+          <td class="email">
+            <SCRIPT type='text/javascript'>
+              a='{{person.email | split: '@' | first}}';
+              b='{{person.email | split: '@' | last}}';
+              document.write('<A hre'+'f="mai'+'lto:'+a+'@'+b+'">');
+              document.write(a+'@'+b+'</a>');
+            </SCRIPT>
+          </td>
           <td class="site"><a target="_blank" href="{{person.website}}">{{person.website}}</a></td>
         </tr>
       {% endfor %}
@@ -69,7 +75,14 @@ title: "People"
     {% for person in site.data.people.postdocs %}
       <tr>
         <td class="name">{{person.name}}</td>
-        <td class="email">{{person.email | replace: '@', ' åt '}}</td>
+        <td class="email">
+          <SCRIPT type='text/javascript'>
+            a='{{person.email | split: '@' | first}}';
+            b='{{person.email | split: '@' | last}}';
+            document.write('<A hre'+'f="mai'+'lto:'+a+'@'+b+'">');
+            document.write(a+'@'+b+'</a>');
+          </SCRIPT>
+        </td>
         <td class="site"><a target="_blank" href="{{person.website}}">{{person.website}}</a></td>
       </tr>
     {% endfor %}
@@ -91,7 +104,14 @@ title: "People"
     {% for person in site.data.people.gradStudents %}
       <tr>
         <td class="name">{{person.name}}</td>
-        <td class="email">{{person.email | replace: '@', ' åt '}}</td>
+        <td class="email">
+          <SCRIPT type='text/javascript'>
+            a='{{person.email | split: '@' | first}}';
+            b='{{person.email | split: '@' | last}}';
+            document.write('<A hre'+'f="mai'+'lto:'+a+'@'+b+'">');
+            document.write(a+'@'+b+'</a>');
+          </SCRIPT>
+        </td>
         <td class="site"><a target="_blank" href="{{person.website}}">{{person.website}}</a></td>
       </tr>
     {% endfor %}
