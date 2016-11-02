@@ -19,12 +19,12 @@ title: "Calendar"
   * Jason - 10/6
   * Austin - 10/13
   * Mike - 10/20
-  * Salva - 10/27
   * Dave - 11/3
   * SFN Poster - 11/10
   * Erik - 12/1
-  * Yujia and - 12/8
+  * Yujia and Theo - 12/8
   * Ben - 12/15
   * Marek - 1/5?
   * Theo - 1/12?
+  * Salva - 1/19
   * Sujith?
