@@ -18,7 +18,15 @@ title: "People"
     <tbody>
       <tr>
         <td class="name">{{site.data.people.pi.name}}</td>
-        <td class="email">{{site.data.people.pi.email | replace: '@', ' åt '}}</td>
+<!--         <td class="email">{{site.data.people.pi.email | replace: '@', ' åt '}}</td> -->
+        <td class="email">
+          <SCRIPT type='text/javascript'>
+            a={{site.data.people.pi.email | split: '@' | first}};
+            b={{site.data.people.pi.email | split: '@' | last}};
+            document.write('<A hre'+'f="mai'+'lto:'+a+'@'+b+'">');
+            document.write(a+'@'+b+'</a>');
+          </SCRIPT>
+        </td>
         <td class="site"><a target="_blank" href="{{site.data.people.pi.website}}">{{site.data.people.pi.website}}</a></td>
       </tr>
     </tbody>
