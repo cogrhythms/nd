@@ -14,17 +14,14 @@ title: "Calendar"
   * Lab Socials — weekly Mondays 4-5p
   * Best scientific/mathematical coding practices wiki and meetings – TBD
 * NaK Presentations
-  * Alex - 9/15
-  * Julia - 9/29
-  * Jason - 10/6
-  * Austin - 10/13
-  * Mike - 10/20
-  * Dave - 11/3
-  * SFN Poster - 11/10
-  * Erik - 12/1
-  * Yujia and Theo - 12/8
-  * Ben - 12/15
-  * Marek - 1/5?
-  * Theo - 1/12?
-  * Salva - 1/19
-  * Sujith?
+  * 1/19 - Guest (Mike Prerau)
+  * 1/26 - Salva
+  * 2/2 - Nancy away
+  * 2/9 - Guest (Jerry Chen)
+  * 2/16 - Dave
+  * 2/23 - Guest (Rob Reinhart)
+  * 3/2 - Marek
+  * 3/9 - Spring Break
+  * 3/14 - CRC Retreat
+  * 3/16 - Guest?
+  * 3/23 - Guest?
