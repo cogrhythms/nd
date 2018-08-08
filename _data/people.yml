@@ -7,6 +7,7 @@ pi:
 indep_visitors:    
   - name: Michelle McCarthy
     email: mmccart@bu.edu
+    website: https://www.bu.edu/math/people/faculty/applied-mathematics/michelle-mccarthy/
       
 postdocs:
   - name: Salva Ardid
@@ -15,6 +16,7 @@ postdocs:
     
   - name: Ben Polletta
     email: benpolletta@gmail.com
+    website: https://www.linkedin.com/in/benjamin-pittman-polletta-a4723132/
     
   - name: Dave Stanley
     email: stanleyd@bu.edu
@@ -23,12 +25,15 @@ postdocs:
 gradStudents:
   - name: Julia Chartove
     email: chartove@bu.edu
+    website: https://www.linkedin.com/in/julia-chartove-ab9a3922/
     
   - name: Alexandros Gelastopoulos
     email: gelas@bu.edu
+    website: http://people.bu.edu/gelas/
   
   - name: Marek Kowalski
     email: komarek@bu.edu
+    website: https://profiles.bu.edu/Marek.Kowalski
       
   - name: Erik Roberts
     email: erob@bu.edu
@@ -40,6 +45,7 @@ gradStudents:
 
   - name: Jingjin Wei
     email: jingjinw@bu.edu
+    website: https://www.linkedin.com/in/jingjin-wei-26b26bb1/
 
   - name: Yujia Zhou
     email: zhouy@bu.edu
