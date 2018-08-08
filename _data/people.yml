@@ -20,12 +20,6 @@ postdocs:
     email: stanleyd@bu.edu
     website: http://davearthurstanley.com
     
-  - name: Sujith Vijayan
-    email: svijayan9@gmail.com
-    
-  - name: Theo Vo
-    email: theovo@bu.edu
-    
 gradStudents:
   - name: Julia Chartove
     email: chartove@bu.edu
@@ -40,12 +34,12 @@ gradStudents:
     email: erob@bu.edu
     website: http://earoberts.com
     
-  - name: Jason Sherfey
-    email: sherfey@bu.edu
-    
   - name: Austin Soplata
     email: asoplata@bu.edu
     website: http://asoplata.com
+
+  - name: Jingjin Wei
+    email: jingjinw@bu.edu
 
   - name: Yujia Zhou
     email: zhouy@bu.edu
