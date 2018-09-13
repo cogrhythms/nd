@@ -8,15 +8,15 @@ indep_visitors:
   - name: Michelle McCarthy
     email: mmccart@bu.edu
     website: https://www.bu.edu/math/people/faculty/applied-mathematics/michelle-mccarthy/
+    
+  - name: Ben Polletta
+    email: benpolletta@gmail.com
+    website: https://www.linkedin.com/in/benjamin-pittman-polletta-a4723132/
       
 postdocs:
   - name: Salva Ardid
     email: sardid@bu.edu
     website: https://scholar.google.com/citations?user=beJXHAYAAAAJ
-    
-  - name: Ben Polletta
-    email: benpolletta@gmail.com
-    website: https://www.linkedin.com/in/benjamin-pittman-polletta-a4723132/
     
   - name: Dave Stanley
     email: stanleyd@bu.edu
