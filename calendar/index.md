@@ -9,17 +9,18 @@ title: "Calendar"
 </iframe>
 
 ## NaK Presentations
-9/13 — Patrick Purdon (Guest)
-9/20 — Erik
-9/27 — Jingjin
-10/4 — Stan?
-10/11 — Ben
-10/18 —Nancy Gone
-10/25 — Alex
-11/1 — Michelle
-11/8 — Dave
-11/15 — Julia
-11/22 — Thanksgiving
-11/29 — Yujia
-12/6 — Austin
-12/13 — Marek
+
+* 9/13 — Patrick Purdon (Guest)
+* 9/20 — Erik
+* 9/27 — Jingjin
+* 10/4 — Stan?
+* 10/11 — Ben
+* 10/18 —Nancy Gone
+* 10/25 — Alex
+* 11/1 — Michelle
+* 11/8 — Dave
+* 11/15 — Julia
+* 11/22 — Thanksgiving
+* 11/29 — Yujia
+* 12/6 — Austin
+* 12/13 — Marek
