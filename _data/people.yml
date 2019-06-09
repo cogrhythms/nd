@@ -27,6 +27,15 @@ gradStudents:
     email: chartove@bu.edu
     website: https://www.linkedin.com/in/julia-chartove-ab9a3922/
     
+  - name: Austin Soplata
+    email: asoplata@bu.edu
+    website: http://asoplata.com
+
+  - name: Jingjin Wei
+    email: jingjinw@bu.edu
+    website: https://www.linkedin.com/in/jingjin-wei-26b26bb1/
+    
+alumni:
   - name: Alexandros Gelastopoulos
     email: gelas@bu.edu
     website: http://people.bu.edu/gelas/
@@ -39,14 +48,6 @@ gradStudents:
     email: erob@bu.edu
     website: http://earoberts.com
     
-  - name: Austin Soplata
-    email: asoplata@bu.edu
-    website: http://asoplata.com
-
-  - name: Jingjin Wei
-    email: jingjinw@bu.edu
-    website: https://www.linkedin.com/in/jingjin-wei-26b26bb1/
-
   - name: Yujia Zhou
     email: zhouy@bu.edu
     website: https://www.linkedin.com/in/yujiaz
